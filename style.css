@@ -1,0 +1,50 @@
+
+nav, ul
+{
+   
+    display: flex;
+    justify-content: space-around;
+}
+nav{
+   
+    max-width: width 700px;
+    margin:inherit;
+    background-image: url(best.jpg);
+    box-shadow: 2px 2px 20px black;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+li
+{
+    list-style: right;
+    margin: 20px;
+}
+
+
+
+
+
+
+
+body
+{
+    background: url("2.jpg") fixed no-repeat;
+}
+h3
+{
+    color: mediumseagreen;
+}
+legend
+{
+    color:dodgerblue;
+}
+h1
+{
+    color:mediumseagreen;
+    box-shadow: 5px 5px 20px black;
+    
+font-family: 'Open Sans', sans-serif;
+}
+
+
